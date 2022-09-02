@@ -20,7 +20,7 @@ public class main {
 	
 	System.out.println("Valve :"+ obj01.getValve());
 	System.out.println("Spark_plug :"+ obj01.getSpark_plug());
-	System.out.println("piston :"+ obj01.getpiston());
+	//System.out.println("piston :"+ obj01.getpiston());
 	System.out.println("Cylinder :"+ obj02.getcylinder());
 	System.out.println("crank :"+ obj02.getcrank());
 	System.out.println("Combustion_Chamber :"+ obj01.getcombustion_chamber());
